@@ -1,7 +1,10 @@
 ### LEE SANGHO 👋
+
+[![Tistory Badge](https://img.shields.io/badge/MY%20Tech%20Blog-555263?style=flat&logoColor=white)]("https://ideal-soil.tistory.com/)
+
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriBulgogi&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriBulgogi&layout=Demo&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriBulgogi&layout=compact&theme=cobalt)
 
 
 <!--
