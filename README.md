@@ -5,11 +5,12 @@
 </br>
 
 ## 💻 DEV's log 💻
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgOriBulgogi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
 
-</br>
 <a href="https://ideal-soil.tistory.com/" rel="nofollow">
-  <img   src="https://camo.githubusercontent.com/b441dc881bfd1dada50a9322ada5f4a15a44d09f35430f64f612a891dab6963b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
 </a>
     
 <a href="https://massive-lantern-8cc.notion.site/28f3706fa34543d3bc1a93b3a07ff42d?pvs=74" rel="nofollow">
