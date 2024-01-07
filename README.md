@@ -1,7 +1,5 @@
 <div align="left">
-
 ![header](https://capsule-render.vercel.app/api?type=Rounded&text=OriBulgogi&color=auto&fontSize=50)
-
 </br>
 
 ## 💻 DEV's log 💻
