@@ -4,14 +4,16 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    <a href="https://massive-lantern-8cc.notion.site/Lee-SangHo-28f3706fa34543d3bc1a93b3a07ff42d?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-999999?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
     <a href="https://ideal-soil.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ideal-soil&theme=default)](https://ideal-soil.tistory.com)
+
+
 </div><br>
 
 ## ⭐
