@@ -15,6 +15,7 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ideal-soil&theme=default)](https://ideal-soil.tistory.com)
 <br>
 
+
 ## ⭐
 ![OriBulgogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriBulgogi&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriBulgogi&layout=compact&theme=cobalt)
